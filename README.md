@@ -2,7 +2,6 @@
 <h3 align="center">talk is cheap show me the code</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hawlan" alt="hawlan" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/hawlan17" target="blank"><img src="https://img.shields.io/twitter/follow/hawlan17?logo=twitter&style=for-the-badge" alt="hawlan17" /></a> </p>
 
