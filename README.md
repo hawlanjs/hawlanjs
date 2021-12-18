@@ -25,7 +25,7 @@
 <h3 align="left">Connect with me:</h3>
 
 ![dacord](https://discord.c99.nl/widget/theme-4/850476096386367500.png)
-   [![Discord](https://img.shields.io/discord/819034800773267467?label=JOIN%20THE%20COMMUNITY&logo=discord&style=for-the-badge)][discord]
+ [![Discord](https://img.shields.io/discord/910240318224498698?label=JOIN%20THE%20COMMUNITY&logo=discord&style=for-the-badge)][discord]
 
 
 <a href="https://discord.gg/ebMPJ7nHAW"><img src="https://discord.com/api/guilds/910240318224498698/widget.png?style=banner2"></a>
