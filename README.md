@@ -38,5 +38,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hawlan&show_icons=true&locale=en" alt="hawlan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hawlan&" alt="hawlan" /></p>
-<img src="https://activity-graph.herokuapp.com/graph?username=DarrenOfficial&bg_color=202020&color=ffffff&line=4f8cc9&point=ffffff&area=true&hide_border=true"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=hawlanjs&bg_color=202020&color=ffffff&line=4f8cc9&point=ffffff&area=true&hide_border=true"/>
 
