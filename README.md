@@ -4,9 +4,9 @@
 
 
 <p align="left"> <a href="https://twitter.com/hawlan17" target="blank"><img src="https://img.shields.io/twitter/follow/hawlan17?logo=twitter&style=for-the-badge" alt="hawlan17"
-                                                                           
+   
+[![Discord](https://img.shields.io/discord/910240318224498698?label=JOIN%20THE%20COMMUNITY&logo=discord&style=for-the-badge)][discord]                                                                            
                                                                          
-                                                                            /></a> </p>
 
 - 🌱 I’m currently learning **c and c++ and arduino**
 
