@@ -19,9 +19,10 @@
 <h3 align="left">Connect with me:</h3>
 
 ![dacord](https://discord.c99.nl/widget/theme-4/850476096386367500.png)
+      ![Discord](https://img.shields.io/discord/910240318224498698?label=JOIN%20THE%20COMMUNITY&logo=discord&style=for-the-badge)][discord]       
+
 
 <a href="https://discord.gg/ebMPJ7nHAW"><img src="https://discord.com/api/guilds/910240318224498698/widget.png?style=banner2"></a>
-   [![Discord](https://img.shields.io/discord/910240318224498698?label=JOIN%20THE%20COMMUNITY&logo=discord&style=for-the-badge)][discord]       
 <p align="left">
 <a href="https://twitter.com/hawlan17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hawlan17" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hawlan kamel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hawlan kamel" height="30" width="40" /></a>
