@@ -31,10 +31,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/hawlan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hawlan" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hawlan&show_icons=true&locale=en&layout=compact" alt="hawlan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hawlan&show_icons=true&locale=en" alt="hawlan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hawlan&" alt="hawlan" /></p>
 <img src="https://activity-graph.herokuapp.com/graph?username=hawlanjs&bg_color=202020&color=ffffff&line=4f8cc9&point=ffffff&area=true&hide_border=true"/>
 
