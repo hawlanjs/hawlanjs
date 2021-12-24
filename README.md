@@ -29,7 +29,7 @@
 
 
 
-![dacord]https://discord.c99.nl/widget/theme-4/850476096386367500.png
+![dacord](https://discord.c99.nl/widget/theme-4/850476096386367500.png)
 
 
 <a href="https://discord.gg/ebMPJ7nHAW"><img src="https://discord.com/api/guilds/910240318224498698/widget.png?style=banner2"></a>
