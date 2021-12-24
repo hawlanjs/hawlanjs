@@ -27,7 +27,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-![dacord](https://discord.c99.nl/widget/theme-4/850476096386367500.png)
+https://discord.c99.nl/widget/theme-4/850476096386367500.png
 
 
 
