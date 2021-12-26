@@ -58,6 +58,4 @@
   <br/>
   
   
-<a href="https://discord.com/users/850476096386367500">
-  <img src="https://lanyard-profile-readme.vercel.app/api/850476096386367500" align="right" />
-</a>
+
