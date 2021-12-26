@@ -56,4 +56,8 @@
 
  <a href="https://github.com/hawlanjs/github-readme-stats"><img alt="hawlan Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hawlanjs&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-
+  
+  
+<a href="https://discord.com/users/850476096386367500">
+  <img src="https://lanyard-profile-readme.vercel.app/api/850476096386367500" align="right" />
+</a>
