@@ -29,6 +29,7 @@
 
 
 ![dacord](https://discord.c99.nl/widget/theme-4/850476096386367500.png)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b150d560-ac64-48c1-be78-ef4c0e89bdf9/deploy-status)](https://app.netlify.com/sites/elegant-lamarr-52dfb5/deploys)
 
 
 <a href="https://discord.gg/ebMPJ7nHAW"><img src="https://discord.com/api/guilds/910240318224498698/widget.png?style=banner2"></a>
