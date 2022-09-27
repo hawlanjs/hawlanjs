@@ -16,7 +16,7 @@
                                                                      
                                                                          
 
-- 🌱 I’m currently learning **c and c++ and arduino**
+- 🌱 I’m currently learning **python**
 
 - 💬 Ask me about **robotic**
 
